@@ -1,8 +1,7 @@
 # Reistration Form
 This is a Frontend that I made using HTML and CSS.
 
-![image](<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/f9de0391-d1f2-45c2-805f-46d3b6379274" />
-)
+![image](https://github.com/user-attachments/assets/eadbff99-ba7a-480f-9fff-d8c41f1edef1)
 
 
 SITE LINK :- https://rohini-pr.github.io/Registration-form--html-css/
